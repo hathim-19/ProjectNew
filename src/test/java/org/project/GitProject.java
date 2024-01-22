@@ -23,6 +23,20 @@ public class GitProject {
 		  System.out.println("TestA3");
 
 		}
+		
+		private void testA4() {
+		 	
+			  System.out.println("TestA4");
+
+		}
+		
+		private void testA5() {
+		 	
+			  System.out.println("TestA5");
+
+		}
+
+
 
 	}
 
